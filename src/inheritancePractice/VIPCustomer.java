@@ -1,4 +1,4 @@
-package ArrayPractice;
+package inheritancePractice;
 
 public class VIPCustomer extends Customer{	//VIPCustomer 클래스는 CUstomer클래스를 상속받음
 	private int agentID;	//VIP고객 상담원 아이디

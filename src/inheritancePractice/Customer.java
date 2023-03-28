@@ -1,4 +1,4 @@
-package ArrayPractice;
+package inheritancePractice;
 
 public class Customer {
 	private int customerID; //고객 아이디
